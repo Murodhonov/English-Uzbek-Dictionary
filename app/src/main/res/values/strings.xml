@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">English Uzbek Dictionary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_dictionary">My Dictionary</string>
+    <string name="edit">O\'zgartirish</string>
+    <string name="delete">O\'chirish</string>
+    <string name="no_data_found">No data found !!</string>
+</resources>
